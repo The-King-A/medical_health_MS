@@ -1,12 +1,5 @@
 # medical_health_MS
 基于springboot的医疗医患交互系统
-
-## 📚 文档导航
-
-- [📖 开发文档](./DEVELOPMENT_GUIDE.md) - 完整的开发指南和技术文档
-- [📋 API文档](./API_DOCUMENTATION.md) - 详细的API接口文档
-- [🚀 快速开始](#🚀-快速开始) - 项目快速启动指南
-
 ## 项目特点
 
 - **技术栈**：Spring Boot 3.2.10 + Java 17 + MyBatis 3.0.5 + MySQL
